@@ -1,3 +1,6 @@
+# To commit to website use
+# Git push after commit!!!
+
 # Evoline
 
 > Main
