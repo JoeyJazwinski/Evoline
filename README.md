@@ -36,6 +36,9 @@ You are a player whos main goal is to level up which is done by killing creature
   - FireRate - >
 - M-14
   - FireRate - >
+> General Pistols
+- Glock 18
+
 
  
 > Gerenal Melee
